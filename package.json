@@ -1,0 +1,30 @@
+{
+	"name": "rhythm-wp-starter-framework",
+	"version": "0.0.1",
+	"description": "A starter framework for WordPress projects at Rhythm",
+	"author": "Christopher Urquidi <chris.urquidi@rhythmagency.com>",
+	"license": "MIT",
+	"dependencies": {
+		"jquery-browser": "*",
+		"lodash": "*",
+		"rhythm.framework": "*"
+	},
+	"devDependencies": {
+		"grunt": "*",
+		"grunt-contrib-cssmin": "*",
+		"grunt-contrib-sass": "*",
+		"grunt-contrib-uglify": "*",
+		"grunt-contrib-watch": "*",
+		"grunt-browserify": "*",
+		"grunt-concurrent": "*",
+		"grunt-cssc": "*",
+		"grunt-surround": "*",
+		"grunt-text-replace": "*",
+		"browserify": "*",
+		"matchdep": "*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:rhythmagency/rhythm.wordpress.starter-theme.git"
+	}
+}
