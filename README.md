@@ -57,12 +57,19 @@ Good luck!
 Getting started with the rhythm.wordpress.starter-theme
 ========================================================
 Upload the theme to your wp-content/themes folder
+
 Activate the theme
+
 Open a terminal and execute:
+
 	cd your-site/wp-content/themes/theme-name
+
 Install the required node packages by running this command in the root of your theme folder:
+
 	npm install
+
 Once the modules are installed run:
+
 	grunt
 
 You will now be up and running.
